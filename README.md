@@ -1,1 +1,1 @@
-# iDeas.github.io
+# timothydeas.github.io
