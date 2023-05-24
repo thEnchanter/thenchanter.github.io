@@ -44,8 +44,6 @@ Home Page:
 description:  iDeas.
 baseurl: "/timothydeas"
 url: "https://timothydeas.github.io"
-twitter_username: LAV_K_V
-github_username:  lavkumarv
 include: ['_pages']
 
 # Build settings
@@ -105,7 +103,7 @@ author_profession: 'iOS Developer'
 author_description: 'TBD</br></br>
 TBD</br></br>
 TBD'
-author_image: '/images/author.jpg'
+author_image: '/images/iDeas.jpg'
 
 # social proiles
 linkedin: 'https://www.linkedin.com/in/timothy-deas/'
@@ -141,7 +139,7 @@ date: 2017-01-24 12:11:34
 categories: blog
 tags: code
 image: '/images/default.jpg'
-lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+lead_text: 'hello world hello world hello world hello world'
 ```
 ## Built With
 
