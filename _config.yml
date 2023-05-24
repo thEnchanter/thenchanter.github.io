@@ -28,7 +28,7 @@ instagram_username: buenos_deas
 github_username:  timothydeas
 
 # Build settings
-theme: yat
+theme: minima
 plugins:
   - jekyll-feed
 
