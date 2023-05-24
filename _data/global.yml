@@ -1,19 +1,17 @@
 # Site Settings
-title: 'Lav Vishwakarma'
-description: 'My personal Blog'
-url: 'https://lavkumarv.github.io'
+title: 'Timothy Deas'
+description: 'insights & iDeas '
+url: 'https://timothydeas.github.io'
 
 # Admin Settings
-admin_name: 'Lav Vishwakarma'
-admin_email: 'lav.kumar.dev@gmail.com'
+admin_name: 'Timothy Deas'
+admin_email: 'deasti@icloud.com'
 
 #####################################################################
 #About Page
-author_name: 'Lav Kumar Vishwakarma'
-author_profession: 'Full Stack Developer'
-author_description: 'A computer science graduate student at University Institute of Technology, RGPV with great interest in Software development and coding efficient software.</br></br>
-My 3+ years of experience in web technologies like J2EE/Jersey, Node.js, Angular.js, c#, MongoDB, MySQL, Linux with Appointy and TechShanty provides me with a rich experience in coding and maintaining large scalable applications.</br></br>
-Working at Appointy as Software Developer Intern, I was involved in Full stack development of a SAAS application which is used by 65,000+ business worldwide. '
+author_name: 'Timothy Deas'
+author_profession: 'Behave'
+author_description: 'TBA '
 author_image: '/images/author.jpg'
 
 # social proiles
