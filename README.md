@@ -41,9 +41,9 @@ Home Page:
 
 ``` yaml
 # Basic settings
-description:  This is personal blog.
-baseurl: "/"
-url: "https://lavkumarv.github.io"
+description:  iDeas.
+baseurl: "/timothydeas"
+url: "https://timothydeas.github.io"
 twitter_username: LAV_K_V
 github_username:  lavkumarv
 include: ['_pages']
@@ -90,35 +90,27 @@ kramdown:
 Global Configuration( global.yml):
 ``` yaml
 # Site Settings
-title: 'Lav Vishwakarma'
-description: 'My personal Blog'
-url: 'https://lavkumarv.github.io'
+title: 'iDeas'
+description: 'iDeas'
+url: 'https://timothydeas.github.io'
 
 # Admin Settings
-admin_name: 'Lav Vishwakarma'
-admin_email: 'lav.kumar.dev@gmail.com'
+admin_name: 'Timothy Deas'
+admin_email: 'deasti@icloud.com'
 
 #####################################################################
 #About Page
-author_name: 'Lav Kumar Vishwakarma'
-author_profession: 'Full Stack Developer'
-author_description: 'A computer science graduate student at University Institute of Technology,
-RGPV with great interest in Software development and coding efficient software.</br></br>
-My 3+ years of experience in web technologies like J2EE/Jersey, Node.js, Angular.js, c#, MongoDB, MySQL,
-Linux with Appointy and TechShanty provides me with a rich experience in coding and maintaining
- large scalable applications.</br></br>
-Working at Appointy as Software Developer Intern, I was involved in Full stack development of a SAAS
-application which is used by 65,000+ business worldwide. '
+author_name: 'Timothy Deas'
+author_profession: 'iOS Developer'
+author_description: 'TBD</br></br>
+TBD</br></br>
+TBD'
 author_image: '/images/author.jpg'
 
 # social proiles
-facebook: 'https://www.facebook.com/lavkumarv'
-twitter: 'https://twitter.com/LAV_K_V'
-linkedin: 'https://www.linkedin.com/in/lav-vishwakarma/'
-instagram: 'https://www.instagram.com/vishwakarmalav/'
-github: 'https://github.com/lavkumarv'
-google-plus: 'https://plus.google.com/+LAVKUMARVISHWAKARMAdev'
-stackoverflow: 'http://stackoverflow.com/users/4703818/lav-kumar-vishwakarma'
+linkedin: 'https://www.linkedin.com/in/timothy-deas/'
+instagram: 'https://www.instagram.com/buenos_deas/'
+github: 'https://github.com/timothydeas'
 #####################################################################
 ---
 ```
@@ -161,7 +153,7 @@ Contributions are welcome!. Feel free to add a new feature or fix a bug.
 
 ## Authors
 
-* **Lav Kumar Vishwakarma** - *Initial work* - [lavkumarv](https://github.com/lavkumarv)
+* **Lav Kumar Vishwakarma** - *Initial work* - [timothydeas](https://github.com/timothydeas )
 
 ## License
 
