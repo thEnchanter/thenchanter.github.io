@@ -4,7 +4,7 @@ Feature Blog is a minimalist, beautiful, responsive theme.
 
 Home Page:
 
-![home](home.jpg "home")
+![home](topHatTitus.jpg "home")
 
 ## Features
 
