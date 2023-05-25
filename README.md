@@ -1,6 +1,6 @@
 # feature-blog-jekyll [![Code Climate](https://codeclimate.com/github/lavkumarv/feature-blog-jekyll/badges/gpa.svg)](https://codeclimate.com/github/lavkumarv/feature-blog-jekyll) <a href="https://codeclimate.com/github/lavkumarv/feature-blog-jekyll"><img src="https://codeclimate.com/github/lavkumarv/feature-blog-jekyll/badges/issue_count.svg" /></a>
 
-Feature Blog is a minimalist, beautiful, responsive theme for Jekyll. It is built using the Bootstrap 3.
+Feature Blog is a minimalist, beautiful, responsive theme.
 
 Home Page:
 
@@ -125,11 +125,11 @@ Image Post:
 ``` json
 layout: blog
 title: 'Sample post to check the functionality'
-date: 2017-01-24 12:11:34
+date: 2023-01-24 12:11:34
 categories: blog
 tags: code
-image: '/images/default.jpg'
-lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+image: '/images/topHatTitus.jpg'
+lead_text: 'meow'
 ```
 Video Post:
 ``` json
@@ -151,7 +151,7 @@ Contributions are welcome!. Feel free to add a new feature or fix a bug.
 
 ## Authors
 
-* **Lav Kumar Vishwakarma** - *Initial work* - [timothydeas](https://github.com/timothydeas )
+* **Lav K** - *Initial work* - [timothydeas](https://github.com/timothydeas )
 
 ## License
 
